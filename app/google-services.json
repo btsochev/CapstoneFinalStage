@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161356172693",
+    "firebase_url": "https://capstonefinalstage.firebaseio.com",
+    "project_id": "capstonefinalstage",
+    "storage_bucket": "capstonefinalstage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161356172693:android:ab8cdd241e5007f3",
+        "android_client_info": {
+          "package_name": "com.udacity.boyan.thestreetgym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161356172693-fq44p6tt3qv3mkqqc9gvfuqgea08b1sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.boyan.thestreetgym",
+            "certificate_hash": "1025a26ea02eacd0937c8e8610b263577109a42d"
+          }
+        },
+        {
+          "client_id": "161356172693-m37ekirbm3lf742hiqfis6ml964dhj9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSWo109iADZr7n7zkw1He7_eSP-MxfcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161356172693-m37ekirbm3lf742hiqfis6ml964dhj9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
