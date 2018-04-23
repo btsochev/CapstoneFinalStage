@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "161356172693-6ad4s3de7t7528389alfu2lh8r21al4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.boyan.thestreetgym",
+            "certificate_hash": "926ed0780c1370535963bd801f393f26560750b0"
+          }
+        },
+        {
           "client_id": "161356172693-fq44p6tt3qv3mkqqc9gvfuqgea08b1sk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
